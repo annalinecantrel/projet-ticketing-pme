@@ -7,7 +7,7 @@
 | Dossier | Angle | Question à laquelle il répond |
 |---|---|---|
 | [01-business-analyse](./cadrage-et-user-stories.md) | Business Analyst | De quoi les utilisateurs ont-ils vraiment besoin ? |
-| [02-gestion-de-projet](./02-gestion-de-projet) | Chef de projet | Comment livrer à temps, dans le budget, en maîtrisant les risques ? |
-| [03-pilotage-et-amelioration-continue](./03-pilotage-et-amelioration-continue) | Pilotage et amélioration continue | Comment suivre et améliorer la qualité du service une fois en production ? |
+| [02-gestion-de-projet](./charte-planning-raci-risques.md) | Chef de projet | Comment livrer à temps, dans le budget, en maîtrisant les risques ? |
+| [03-pilotage-et-amelioration-continue](./pilotage-kpi-amelioration-continue.md) | Pilotage et amélioration continue | Comment suivre et améliorer la qualité du service une fois en production ? |
 
 Le suivi du backlog est visible dans l'onglet **Projects** du dépôt (tableau kanban).
