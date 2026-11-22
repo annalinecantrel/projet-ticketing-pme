@@ -6,7 +6,7 @@
 
 | Dossier | Angle | Question à laquelle il répond |
 |---|---|---|
-| [01-business-analyse](./01-business-analyse) | Business Analyst | De quoi les utilisateurs ont-ils vraiment besoin ? |
+| [01-business-analyse](./cadrage-et-user-stories.md) | Business Analyst | De quoi les utilisateurs ont-ils vraiment besoin ? |
 | [02-gestion-de-projet](./02-gestion-de-projet) | Chef de projet | Comment livrer à temps, dans le budget, en maîtrisant les risques ? |
 | [03-pilotage-et-amelioration-continue](./03-pilotage-et-amelioration-continue) | Pilotage et amélioration continue | Comment suivre et améliorer la qualité du service une fois en production ? |
 
